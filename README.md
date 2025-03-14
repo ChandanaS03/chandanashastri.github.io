@@ -37,7 +37,7 @@ Auto vision: AI powered vehicle damage assessment and repair cost estimator
 Team Size: 4
 Project Link: https://www.linkedin.com/safety/go?url=https%3A%2F%2Flnkd.in%2FdiJJeaXs%3Ftrk%3Dfeed_main-feed-card-text
 
-###ASSESSMENTS / CERTIFICATIONS
+### ASSESSMENTS / CERTIFICATIONS
 AI Foundation Certification
 Key Skills: AI, ML, DL, NLP
 
@@ -47,5 +47,5 @@ Lead of the Technical Team of IEEE SIESGST council. Developed Multiple websites 
 guiding Technical volunteers. Built Hardware projects for STEM Workshops and Annual Flagship event "Techopedia". Participated in
 several Hackathon and Ideathons with the Team.
 
-###IMs
+### IMs
 Other - https://fyp.bio/chandanashastri
